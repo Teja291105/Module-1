@@ -13,8 +13,8 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212223060285
+# Name-Tejashree J
 # Write your code here
 
 char = input("Enter a character: ")
@@ -27,5 +27,6 @@ else:
 ```
 
 ## OUTPUT
-
+<img width="790" height="201" alt="image" src="https://github.com/user-attachments/assets/e4bb1ab6-e765-41ef-bb29-acfdb27ef4d2" />
 ## RESULT
+A Python program to check whether the given character is a vowel or not using if..else statement has been implemented and executed successfully.
